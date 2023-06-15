@@ -5,9 +5,8 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- ⚡ Fun fact **Luck is the most important skill.**
+- ⚡ Fun fact: **luck is the most important skill.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -19,3 +18,55 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viperseye&show_icons=true&locale=en" alt="viperseye" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viperseye&" alt="viperseye" /></p>
+
+<h2 align="left">My projects:</h2>
+
+<p>
+  <h3 align="left">
+    <a href="https://github.com/VipersEye/HRM-system" target="_blank" rel="noreferrer">HRM-system</a>
+  </h3>
+  <img width="100%" height="auto" align="left" src="https://github.com/VipersEye/VipersEye/blob/main/images/HRM.png" alt="HRM-system" />
+</p>
+
+
+<p>
+  <h3 align="left">
+    <a href="https://viperseye.github.io/Weather-App/" target="_blank" rel="noreferrer">Weather App</a>
+  </h3>
+  <img width="100%" height="auto" align="left" src="https://github.com/VipersEye/VipersEye/blob/main/images/Weather-App.png" alt="Weather App" />
+</p>
+
+<p>
+  <h3 align="left">
+    <a href="" target="_blank" rel="noreferrer"></a>
+  </h3>
+  <img width="100%" height="auto" align="left" src="" alt="" />
+</p>
+
+<p>
+  <h3 align="left">
+    <a href="https://viperseye.github.io/Tic-Tac-Toe/" target="_blank" rel="noreferrer">Tic Tac Toe</a>
+  </h3>
+  <img width="100%" height="auto" align="left" src="https://github.com/VipersEye/VipersEye/blob/main/images/Tic-Tac-Toe.png" alt="Tic Tac Toe" />
+</p>
+
+<p>
+  <h3 align="left">
+    <a href="https://viperseye.github.io/Etch-A-Sketch/" target="_blank" rel="noreferrer">Etch-A-Sketch</a>
+  </h3>
+  <img width="100%" height="auto" align="left" src="https://github.com/VipersEye/VipersEye/blob/main/images/Etch-A-Sketch.png" alt="Etch-A-Sketch" />
+</p>
+
+<p>
+  <h3 align="left">
+    <a href="https://viperseye.github.io/Sign-Up-Form/" target="_blank" rel="noreferrer">Sign Up Form</a>
+  </h3>
+  <img width="100%" height="auto" align="left" src="https://github.com/VipersEye/VipersEye/blob/main/images/Sign-Up-Form.png" alt="Sign Up Form" />
+</p>
+
+<p>
+  <h3 align="left">
+    <a href="https://viperseye.github.io/Library/" target="_blank" rel="noreferrer">Library</a>
+  </h3>
+  <img width="100%" height="auto" align="left" src="https://github.com/VipersEye/VipersEye/blob/main/images/Library.png" alt="Library" />
+</p>
