@@ -38,13 +38,6 @@
 
 <p>
   <h3 align="left">
-    <a href="" target="_blank" rel="noreferrer"></a>
-  </h3>
-  <img width="100%" height="auto" align="left" src="" alt="" />
-</p>
-
-<p>
-  <h3 align="left">
     <a href="https://viperseye.github.io/Tic-Tac-Toe/" target="_blank" rel="noreferrer">Tic Tac Toe</a>
   </h3>
   <img width="100%" height="auto" align="left" src="https://github.com/VipersEye/VipersEye/blob/main/images/Tic-Tac-Toe.png" alt="Tic Tac Toe" />
